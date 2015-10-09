@@ -29,4 +29,4 @@ A simple python3 Wrapper for Voat.co's API
       print(post.author)
       comments= post.getComments()
       for comment in comments:
-      print(comment.body)
+          print(comment.body)
